@@ -1,3 +1,5 @@
+![Example GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 ### Full Stack Developer 👋
 
 Full Stack Engineer with more than 4 years of web development experience in building high-performance presentations, reusable components, and performance optimization. 
@@ -21,6 +23,7 @@ Skillful in problem solving methods with solid knowledge in programming.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+
 
 
 <!--
