@@ -6,9 +6,9 @@ Full Stack Engineer with more than 4 years of web development experience in buil
 Skillful in problem solving methods with solid knowledge in programming.
 ##### *Mainly focus on Back End Development with Python[Django, Flask, FastAPi]/Nodejs[Express] , but also available for Front End Development with React/Next.js. Proficient in Git and familiar with Project Management via JIRA, Trello, and communication platforms like Slack. Below I give some tags for the search engine and for those who prefer doing quick scanning.* ###
 
-- React, Redux, Next.Js, Gatsby, Styled-Components
-- Node / Express / 
 - Python / Django / FastAPI / Flask
+- Node / Express / 
+- React, Redux, Next.Js, Gatsby, Styled-Components
 - MySQL, MongoDB, PostgreSQL
 - HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap / TailWind CSS
 - RESTful / GraphQL
